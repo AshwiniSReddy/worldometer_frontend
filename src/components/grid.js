@@ -122,7 +122,7 @@ const Grid = () => {
     Oil_consumption: "Loading...",
     Natural_gas_left: "Loading...",
     Abortion: "Loading...",
-    Infection: "Loading...",
+    HIV_AIDS_infected_people: "Loading...",
     Cigerates_smoked: "Loading...",
     Death_caused_by_smoking: "Loading...",
     Death_caused_by_alchol: "Loading...",

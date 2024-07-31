@@ -63,6 +63,8 @@
     height: 100%;
     text-align: center;
     gap: 5%;
+    padding: 40px;
+    box-sizing: border-box;
   }
   
   .key {
@@ -70,6 +72,7 @@
     font-weight: bold;
     margin-bottom: 10px;
     line-height: 20px;
+    overflow-wrap: break-word;
    
 
   }
@@ -79,6 +82,7 @@
     color: #333;
     /* line-height: 20px; */
     font-weight: 400;
+    overflow-wrap: break-word;
     
 
   }
