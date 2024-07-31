@@ -1,0 +1,87 @@
+<svg width="1985" height="3636" viewBox="0 0 1985 3636" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="boxShadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#0e3f7e0f" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#2a334608" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#2a33460a" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#2a33460a" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#2a334608" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#2a334608" flood-opacity="1"/>
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#2a334608" flood-opacity="1"/>
+    </filter>
+  </defs>
+  <g id="Component">
+
+    <g id="Frame 1000001676">
+      <rect id="4" x="2.5" y="614.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 22_2" d="M653.334 612V1188" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="5" x="680.834" y="614.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 23_2" d="M1331.67 612V1188" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="6" x="1359.17" y="614.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+    </g>
+
+    <g id="Frame 1000001681">
+      <path id="Vector 32_2" d="M0 1206H628.333" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 9_2" cx="653.334" cy="1206" r="10" fill="#e7e9f1"/>
+      <path id="Vector 33_2" d="M678.334 1206H1306.67" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 10_2" cx="1331.67" cy="1206" r="10" fill="#e7e9f1"/>
+      <path id="Vector 34_2" d="M1356.67 1206H1985" stroke="#e7e9f1" stroke-width="6"/>
+    </g>
+
+    <g id="Frame 1000001677">
+      <rect id="7" x="2.5" y="1226.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 22_3" d="M653.334 1224V1800" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="8" x="680.834" y="1226.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 23_3" d="M1331.67 1224V1800" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="9" x="1359.17" y="1226.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+    </g>
+
+    <g id="Frame 1000001682">
+      <path id="Vector 32_3" d="M0 1818H628.333" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 9_3" cx="653.334" cy="1818" r="10" fill="#e7e9f1"/>
+      <path id="Vector 33_3" d="M678.334 1818H1306.67" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 10_3" cx="1331.67" cy="1818" r="10" fill="#e7e9f1"/>
+      <path id="Vector 34_3" d="M1356.67 1818H1985" stroke="#e7e9f1" stroke-width="6"/>
+    </g>
+
+    <g id="Frame 1000001678">
+      <rect id="10" x="2.5" y="1838.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 22_4" d="M653.334 1836V2412" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="11" x="680.834" y="1838.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 23_4" d="M1331.67 1836V2412" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="12" x="1359.17" y="1838.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+    </g>
+
+    <g id="Frame 1000001684">
+      <path id="Vector 32_4" d="M0 2430H628.333" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 9_4" cx="653.334" cy="2430" r="10" fill="#e7e9f1"/>
+      <path id="Vector 33_4" d="M678.334 2430H1306.67" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 10_4" cx="1331.67" cy="2430" r="10" fill="#e7e9f1"/>
+      <path id="Vector 34_4" d="M1356.67 2430H1985" stroke="#e7e9f1" stroke-width="6"/>
+    </g>
+
+    <g id="Frame 1000001683">
+      <rect id="12_2" x="2.5" y="2450.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 22_5" d="M653.334 2448V3024" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="14" x="680.834" y="2450.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 23_5" d="M1331.67 2448V3024" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="15" x="1359.17" y="2450.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+    </g>
+
+    <g id="Frame 1000001686">
+      <path id="Vector 32_5" d="M0 3042H628.333" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 9_5" cx="653.334" cy="3042" r="10" fill="#e7e9f1"/>
+      <path id="Vector 33_5" d="M678.334 3042H1306.67" stroke="#e7e9f1" stroke-width="6"/>
+      <circle id="Ellipse 10_5" cx="1331.67" cy="3042" r="10" fill="#e7e9f1"/>
+      <path id="Vector 34_5" d="M1356.67 3042H1985" stroke="#e7e9f1" stroke-width="6"/>
+    </g>
+
+    <g id="Frame 1000001685">
+      <rect id="16" x="2.5" y="3062.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 22_6" d="M653.334 3060V3636" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="17" x="680.834" y="3062.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+      <path id="Vector 23_6" d="M1331.67 3060V3636" stroke="#e7e9f1" stroke-width="6"/>
+      <rect id="18" x="1359.17" y="3062.5" width="623.333" height="571" rx="50" ry="50" fill="#f7f6fa" stroke="#e7e9f1" stroke-width="2" filter="url(#boxShadow)"/>
+    </g>
+  </g>
+</svg>
